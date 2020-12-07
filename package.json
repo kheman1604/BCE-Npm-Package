@@ -1,0 +1,12 @@
+{
+  "name": "npm-bcebti",
+  "version": "1.0.6",
+  "description": "A Simple Calc to perform Basic Operations ",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "calculator"
+  ],
+  "author": "Kheman Jain",
+  "license": "ISC"
+}
